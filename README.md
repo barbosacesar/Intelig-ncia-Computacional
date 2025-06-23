@@ -50,9 +50,9 @@ pip install deepface opencv-python matplotlib ipywidgets pillow
 
 ## 🧠 Datasets Used
 
-* [FER2013](https://www.kaggle.com/datasets/msambare/fer2013)
-* [CK+ (Extended Cohn-Kanade)](http://www.jeffcohn.net/Resources/)
-* [AffectNet](http://mohammadmahoor.com/affectnet/) *(license required)*
+* FER2013
+* CK+ (Extended Cohn-Kanade)
+* AffectNet
 
 ---
 
